@@ -3,7 +3,6 @@ from tkinter import messagebox
 import amplitud
 import costo
 import profundidad
-from PIL import Image, ImageTk
 root = tk.Tk()
 
 root.geometry("1000x1000")
